@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672664981 source:d:\doc\telkom\kuloah\strukdat\tugas\tubesstd_happyfamily_if4511_1301213126_1301213199\happyfamilyyy\main.cpp
+	<iostream>
+	"HappyFamilyyy.h"
+
+1672634545 source:d:\doc\telkom\kuloah\strukdat\tugas\tubesstd_happyfamily_if4511_1301213126_1301213199\happyfamilyyy\happyfamilyyy.cpp
+	"HappyFamilyyy.h"
+
+1672634526 d:\doc\telkom\kuloah\strukdat\tugas\tubesstd_happyfamily_if4511_1301213126_1301213199\happyfamilyyy\happyfamilyyy.h
+	<iostream>
+
